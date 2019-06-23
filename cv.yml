@@ -1,0 +1,33 @@
+name:
+  first: Vladimir
+  last: Sharai
+
+contacts:
+  skype: volodya22.by
+  email: "volodya22all@gmail.com"
+  phone: "8-044-7002522"
+
+social:
+  github: "VolodyaAll"
+
+languages:
+  - name: Ruby
+  - name: Ruby on Rails
+  - name: JavaScript
+  - name: HTML/CSS (Web Standards)
+
+education:
+  - title: Electrical Systems and Networks
+    when: 2002-2007
+    institution: BNTU
+
+experience:
+  - title: Electrical Substation Manager
+    company: RUP "Minskenergo"
+    when: 2007-2013
+  - title: Chief Engineer
+    company: OOO "Ferzon"
+    when: 2007-2013
+  - title: Chief Power Engineer
+    company: ODO "Belautozapchast"
+    when: 2014-now
